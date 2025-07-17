@@ -61,4 +61,4 @@
 ---
 
 > "Engineering is not just equations – it’s about **solving real-world problems** with purpose and passion."  
-> – Eng. Omer (باشمهندس)
+> – Eng. Omer Abdalla
